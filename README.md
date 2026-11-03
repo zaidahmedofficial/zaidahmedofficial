@@ -1,179 +1,94 @@
-<div class="profile-container">
-  <div class="terminal">
-    <div class="terminal-header">
-      <span class="dot red"></span>
-      <span class="dot yellow"></span>
-      <span class="dot green"></span>
-    </div>
-    <div class="terminal-body">
-      <div class="typing-line">
-        <span class="prompt">zaid@github</span>
-        <span class="cursor-blink">|</span>
-      </div>
-      <p class="status-line">
-        <span class="arrow">→</span> Crafting responsive interfaces since 2020
-      </p>
-      <div class="skills-container">
-        <div class="skill-tag html">HTML</div>
-        <div class="skill-tag css">CSS</div>
-        <div class="skill-tag tailwind">TailwindCSS</div>
-        <div class="skill-tag js">JS</div>
-        <div class="skill-tag react">ReactJS</div>
-        <div class="skill-tag ts">TS</div>
-      </div>
-      <p class="note">
-        "Code is poetry, but sometimes it needs a better editor"
-      </p>
-    </div>
-  </div>
-</div>
+# ZAID AHMED
 
-<style>
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
+### Computer Science Student · Aspiring Software Engineer
 
-  body {
-    background: #0d1117;
-    color: #c9d1d9;
-    font-family: 'Courier New', monospace;
-    padding: 2rem;
-  }
+**Engineering the fundamentals. Building toward the future.**
 
-  .profile-container {
-    max-width: 600px;
-    margin: 0 auto;
-  }
+I'm a Computer Science student at the **University of Balochistan, Pakistan**, pursuing Information Technology. I’m interested in how software is designed, how systems work, and how technology can turn ideas into practical solutions.
 
-  .terminal {
-    background: #161b22;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-    animation: fadeIn 1s ease-in;
-  }
+```text
+FOCUS  →  SOFTWARE ENGINEERING
+STACK  →  HTML · CSS · Tailwind CSS · C++
+MINDSET →  LEARN · BUILD · ITERATE
+```
 
-  .terminal-header {
-    background: #21262d;
-    padding: 0.5rem 1rem;
-    display: flex;
-    gap: 0.5rem;
-  }
+---
 
-  .dot {
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-  }
+## 01 / PROFILE
 
-  .red { background: #ff5f56; }
-  .yellow { background: #ffbd2e; }
-  .green { background: #27c93f; }
+- 🎓 **University:** University of Balochistan
+- 🏛️ **Department:** Computer Science
+- 📘 **Program:** Information Technology (IT)
+- 📍 **Current Semester:** 4th
+- 🌐 **Primary Interest:** Web Development
+- 🧩 **Foundations:** Programming, Algorithms, Databases & Computer Systems
 
-  .terminal-body {
-    padding: 1.5rem;
-    line-height: 1.6;
-  }
+I believe strong engineers are built by understanding the fundamentals, solving meaningful problems, and consistently improving their work.
 
-  .typing-line {
-    margin-bottom: 1rem;
-  }
+## 02 / TECHNOLOGY
 
-  .prompt {
-    color: #7ee787;
-    margin-right: 0.5rem;
-  }
+**Web & Styling**
 
-  .cursor-blink {
-    animation: blink 1s infinite;
-  }
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
+**Programming & Markup**
 
-  .status-line {
-    margin: 0.5rem 0;
-    color: #8b949e;
-  }
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![XML](https://img.shields.io/badge/XML-0060AC?style=flat-square&logo=xml&logoColor=white)
+![XHTML](https://img.shields.io/badge/XHTML-555555?style=flat-square&logo=w3c&logoColor=white)
 
-  .arrow {
-    color: #58a6ff;
-    margin-right: 0.5rem;
-  }
+**Tools & Concepts**
 
-  .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    margin: 1rem 0;
-  }
+`Microsoft Access` · `GitHub` · `Responsive Design` · `Problem Solving`
 
-  .skill-tag {
-    padding: 0.3rem 0.7rem;
-    border-radius: 4px;
-    font-size: 0.85rem;
-    font-weight: bold;
-    animation: slideIn 0.5s ease-out forwards;
-    opacity: 0;
-    transform: translateY(10px);
-  }
+*My current toolkit reflects the technologies and concepts I have studied. I’m continuing to expand it through practice and projects.*
 
-  .html {
-    background: #e34c26;
-    color: white;
-    animation-delay: 1.5s;
-  }
+## 03 / COMPUTER SCIENCE FOUNDATION
 
-  .css {
-    background: #264de4;
-    color: white;
-    animation-delay: 1.8s;
-  }
+| Domain | Coursework |
+|---|---|
+| Programming | C++, Assembly Language |
+| Algorithms | Data Structures & Algorithms |
+| Web | Web Technologies |
+| Databases | Database Systems with MS Access |
+| Intelligence | Artificial Intelligence |
+| Systems | Operating Systems, Digital Logic Design |
+| Networking & Security | Computer Networks, Information Security |
+| Mathematics | Calculus, Statistics, Discrete Mathematics, Linear Algebra |
+| Science | Applied Physics |
+| Communication | English, Expository Writing, ICT |
 
-  .tailwind {
-    background: #06b6d4;
-    color: white;
-    animation-delay: 2.1s;
-  }
+## 04 / ENGINEERING PRINCIPLES
 
-  .js {
-    background: #f7df1e;
-    color: black;
-    animation-delay: 2.4s;
-  }
+- **Understand before optimizing.** Build a solid foundation before chasing complexity.
+- **Keep learning.** Treat every project and problem as an opportunity to improve.
+- **Build with purpose.** Aim for solutions that are useful, maintainable, and clear.
+- **Iterate relentlessly.** Learn from mistakes, refine the implementation, and improve the result.
 
-  .react {
-    background: #61dafb;
-    color: black;
-    animation-delay: 2.7s;
-  }
+## 05 / WHAT I'M WORKING TOWARD
 
-  .ts {
-    background: #3178c6;
-    color: white;
-    animation-delay: 3s;
-  }
+- Building responsive and accessible websites.
+- Strengthening C++ programming and algorithmic thinking.
+- Understanding databases, operating systems, and networking.
+- Turning coursework into practical, documented projects.
+- Developing the discipline required to become a capable software engineer.
 
-  @keyframes slideIn {
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
+## 06 / PROJECTS
 
-  .note {
-    margin-top: 1rem;
-    color: #8b949e;
-    font-style: italic;
-    animation: fadeIn 1s ease-in 3.5s;
-    opacity: 0;
-  }
+I use GitHub to document my progress, experiment with ideas, and showcase what I build.
 
-  @keyframes fadeIn {
-    to { opacity: 1; }
-  }
-</style>
+Explore my repositories to follow my development journey.
+
+**Next milestone:** Turn foundational knowledge into well-engineered projects that solve real problems.
+
+---
+
+### CONNECT
+
+[GitHub Profile](https://github.com/zaidahmedofficial)
+
+<p align="center">
+  <sub>Curiosity → Knowledge → Execution → Progress</sub>
+</p>
