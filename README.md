@@ -1,166 +1,283 @@
-# Zaid Ahmed
+# ZAID AHMED
 
-<p align="center">
-  <strong>SOFTWARE ENGINEER · AI ENGINEER</strong><br />
-  <em>Building useful software. Exploring intelligent systems. Learning by shipping.</em>
-</p>
+\<h3 align="center">SOFTWARE ENGINEER | AI ENGINEER\</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaidahmedofficial&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/zaidahmedofficial?label=FOLLOWERS&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
-</p>
+\<p align="center">   \<b>Building intelligent systems. Engineering digital experiences. Exploring what's next.\</b> \</p>
 
----
-
-## 01 · About
-
-I'm **Zaid Ahmed**, an Information Technology undergraduate in the **Department of Computer Science at the University of Balochistan, Pakistan**. My work and learning interests sit at the intersection of **software engineering, modern web development, and artificial intelligence**.
-
-I enjoy turning ideas into practical applications—from responsive web experiences and database-backed products to AI-powered chatbots, image-recognition experiments, and communication agents.
-
-My engineering approach is straightforward:
-
-> Understand the problem. Build the smallest useful solution. Test it. Improve it.
-
-## 02 · At a glance
-
-| | |
-|---|---|
-| **Name** | Zaid Ahmed |
-| **University** | University of Balochistan |
-| **Department** | Computer Science |
-| **Program** | Information Technology (IT) |
-| **Current semester** | 4th semester |
-| **Location** | Pakistan |
-| **Focus** | Software Engineering · AI Engineering · Web Development |
-
-## 03 · Technology stack
-
-### Frontend development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs" alt="HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React and Next.js" />
-</p>
-
-`HTML5 / HTM` · `CSS3` · `JavaScript` · `Tailwind CSS` · `Bootstrap` · `React.js` · `Next.js`
-
-### Programming and data formats
-
-`C++ fundamentals` · `XML` · `XHTML`
-
-### Databases and backend platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" alt="MongoDB, Firebase and Supabase" />
-</p>
-
-`MongoDB` · `Turso` · `Neon` · `Firebase` · `Supabase` · `Microsoft Access`
-
-### Deployment and hosting
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Vercel and Netlify" />
-</p>
-
-`Vercel` · `Netlify`
-
-## 04 · AI engineering and automation
-
-I am interested in practical AI systems that make digital products more helpful and reduce repetitive work.
-
-| Area | Project focus |
-|---|---|
-| **Computer vision** | Image-recognition models and visual understanding |
-| **Conversational AI** | Website chatbots and customer-support assistants |
-| **WhatsApp automation** | WhatsApp agents and messaging workflows |
-| **Telegram automation** | Telegram bots and assistant workflows |
-| **Social messaging** | Facebook Page agents and automated responses |
-| **AI + web integration** | Bringing AI-powered features into web applications |
-
-I take inspiration from the customer-support experiences found in services such as Zong and Easypaisa when exploring website chatbot flows. These are independent learning and development interests, not official affiliations with those companies.
-
-## 05 · Academic foundation
-
-**University of Balochistan · Computer Science Department · Information Technology**  
-The following courses are from the first four semesters, based on the course information I have recorded.
-
-<details>
-  <summary><strong>View coursework, credit hours, and instructors</strong></summary>
-
-  | Course | Credit hours | Instructor |
-  |---|---:|---|
-  | Functional English | 3 | Miss Hajira |
-  | Information and Communication Technology (ICT) | 3 | Sir Sajad Ahmed |
-  | Programming Fundamentals in C++ | 4 | Sir Saeed |
-  | Calculus | 2 | Madam Atifa |
-  | Statistics | 3 | Sir Imran Ali |
-  | Applied Physics | 2 | Sir Wajahat |
-  | Data Structures and Algorithms in C++ | 3 | Sir Waqas |
-  | Discrete Mathematics | 3 | Sir Imran Ali |
-  | Digital Logic Design (DLD) | 4 | Sir Anwar |
-  | Expository Writing | 3 | Miss Rabbia |
-  | Information Security | 3 | Sir Ahsan |
-  | Web Technologies | 3 | Sir Imran |
-  | Database using Microsoft Access | 4 | Miss Shafaque Saira |
-  | Artificial Intelligence (AI) | 3 | Miss Shafaque Saira |
-  | Linear Algebra | 3 | Miss Atifa |
-  | Computer Networks | 3 | Sir Ahsan |
-  | Assembly Language | 3 | Miss Shafaque Saira |
-  | Operating Systems (OS) | 3 | Sir Anwar |
-  | Pakistan Studies | 2 | Sir Essa Babar |
-  | Islamic Studies | 2 | Sir M. Ali Babar |
-  | Ideology of Pakistan | 2 | Sir Asmatullah |
-
-  **Total of the listed course credit hours: 61.** This is the sum of the credit hours supplied above, not a claim about earned or officially completed credits.
-
-</details>
-
-### Core areas covered
-
-- **Programming:** C++ fundamentals, data structures, algorithms, and assembly language.
-- **Systems and security:** Operating systems, computer networks, information security, and digital logic design.
-- **Data and intelligent systems:** Database concepts and artificial intelligence.
-- **Mathematics and science:** Calculus, statistics, discrete mathematics, linear algebra, and applied physics.
-- **Communication:** Functional English, expository writing, ICT, and general education courses.
-
-## 06 · What I'm learning now
-
-- **AI engineering:** AI application development, image recognition, chatbots, and agent workflows.
-- **Web development:** Modern JavaScript, React.js, Next.js, and full-stack application patterns.
-- **Content creation:** Creative communication, content planning, and digital storytelling.
-
-## 07 · Engineering principles
-
-- **Fundamentals first** — understand the concepts beneath the tools.
-- **Build to learn** — turn theory into working projects and experiments.
-- **Keep systems clear** — prefer maintainable code and understandable architecture.
-- **Iterate deliberately** — test, review, improve, and document.
-- **Stay curious** — keep learning as technologies and ideas evolve.
-
-## 08 · GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zaidahmedofficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidahmedofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used repository languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zaidahmedofficial&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<sub>Note: language cards reflect the languages detected in public repositories; they are not a measure of skill or proficiency.</sub>
-
-## 09 · Connect
-
-<p>
-  <a href="https://github.com/zaidahmedofficial">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://komarev.com/ghpvc/?username=zaidahmedofficial&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square](https://komarev.com/ghpvc/?username=zaidahmedofficial\&label=PROFILE%20VIEWS\&color=0e75b6\&style=flat-square)" alt="Profile Views" />
+&#x20; \<img src="[https://img.shields.io/github/followers/zaidahmedofficial?label=Followers&style=flat-square&color=0e75b6](https://img.shields.io/github/followers/zaidahmedofficial?label=Followers\&style=flat-square\&color=0e75b6)" alt="GitHub Followers" />
+\</p>
 
 ---
 
-<p align="center">
-  <strong>THINK CLEARLY · BUILD BOLDLY · KEEP ITERATING</strong><br />
-  <sub>Zaid Ahmed · Software Engineering × Artificial Intelligence</sub>
-</p>
+## 01 / ABOUT ME
+
+I'm **Zaid Ahmed**, a Software Engineer and AI Engineer focused on modern web development, artificial intelligence, intelligent automation, and software engineering.
+
+Currently pursuing **Information Technology (IT)** in the Department of Computer Science at the **University of Balochistan, Pakistan**.
+
+My interests lie at the intersection of software development, AI-powered applications, database technologies, and intelligent communication systems.
+
+I believe in understanding technology from its fundamentals, transforming ideas into functional systems, and continuously improving through experimentation and engineering.
+
+```text
+ENGINEERING MINDSET
+
+Understand the problem.
+Design the architecture.
+Build the solution.
+Test and optimize.
+Continuously improve.
+```
+
+---
+
+## 02 / PROFESSIONAL PROFILE
+
+| Category              | Details                                           |
+| :-------------------- | :------------------------------------------------ |
+| Full Name             | Zaid Ahmed                                        |
+| Professional Identity | Software Engineer & AI Engineer                   |
+| University            | University of Balochistan                         |
+| Department            | Computer Science (CS)                             |
+| Academic Program      | Information Technology (IT)                       |
+| Current Semester      | 4th Semester                                      |
+| Country               | Pakistan                                          |
+| Primary Interests     | Software Engineering, AI & Full-Stack Development |
+
+---
+
+## 03 / TECHNOLOGY STACK
+
+### Frontend Development
+
+Building modern, responsive, and interactive web experiences.
+
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs)" alt="Frontend Technology Stack" />
+\</p>
+
+
+
+
+
+
+\
+
+
+### Programming & Markup Technologies
+
+
+\
+
+
+**Technologies covered:** HTML, HTM, XHTML, XML, CSS, JavaScript and C++ fundamentals.
+
+### Databases & Backend Platforms
+
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=mongodb,firebase,supabase](https://skillicons.dev/icons?i=mongodb,firebase,supabase)" alt="Database and Backend Platforms" />
+\</p>
+
+
+
+
+\
+
+
+### Deployment & Hosting
+
+\
+
+
+---
+
+## 04 / ARTIFICIAL INTELLIGENCE & AGENT ENGINEERING
+
+Exploring the development of intelligent applications, computer vision systems, conversational AI, and automated communication agents.
+
+### AI Development Areas
+
+| Technology / Domain | Focus                           |
+| :------------------ | :------------------------------ |
+| Image Recognition   | Image Recognition Models        |
+| Computer Vision     | Intelligent Image Processing    |
+| Conversational AI   | Website Chatbots                |
+| Customer Support AI | Intelligent Customer Assistance |
+| WhatsApp Automation | WhatsApp Agents                 |
+| Telegram Automation | Telegram Agents & Bots          |
+| Facebook Automation | Facebook Page Agents            |
+| AI Integration      | AI-Powered Web Applications     |
+
+### Intelligent Projects & Automation
+
+**01. Image Recognition Model**
+
+Working with image recognition and intelligent visual-processing concepts.
+
+**02. Website AI Chatbots**
+
+Developing conversational website assistants inspired by customer-support experiences found in applications such as Zong and Easypaisa.
+
+**03. WhatsApp AI Agent**
+
+Exploring automated messaging, intelligent responses, and customer interaction workflows.
+
+**04. Telegram Agent**
+
+Developing Telegram-based bots and automated communication systems.
+
+**05. Facebook Page Agent**
+
+Exploring intelligent social media communication and automated page interactions.
+
+**06. AI-Powered Applications**
+
+Integrating AI capabilities into modern web applications to create more useful and interactive digital experiences.
+
+---
+
+## 05 / UNIVERSITY OF BALOCHISTAN — ACADEMIC RECORD
+
+\<p align="center">
+&#x20; \<b>UNIVERSITY OF BALOCHISTAN · PAKISTAN\</b>\<br/>
+&#x20; Computer Science Department\<br/>
+&#x20; Information Technology (IT)\<br/>
+&#x20; 4th Semester
+\</p>
+
+### Academic Coursework — First Four Semesters
+
+The following table documents my academic coursework, including the official course titles as supplied, credit hours, and respective instructors.
+
+|  #  | Course Title                                 | Credit Hours | Instructor          |
+| :-: | :------------------------------------------- | :----------: | :------------------ |
+|  01 | Functional English                           |       3      | Miss Hajira         |
+|  02 | Information & Communication Technology (ICT) |       3      | Sir Sajad Ahmed     |
+|  03 | Programming Fundamentals in C++              |       4      | Sir Saeed           |
+|  04 | Calculus                                     |       2      | Madam Atifa         |
+|  05 | Statistics                                   |       3      | Sir Imran Ali       |
+|  06 | Applied Physics                              |       2      | Sir Wajahat         |
+|  07 | Data Structures & Algorithms (DSA) in C++    |       3      | Sir Waqas           |
+|  08 | Discrete Mathematics                         |       3      | Sir Imran Ali       |
+|  09 | Digital Logic Design (DLD)                   |       4      | Sir Anwar           |
+|  10 | Expository Writing                           |       3      | Miss Rabbia         |
+|  11 | Information Security                         |       3      | Sir Ahsan           |
+|  12 | Web Technologies                             |       3      | Sir Imran           |
+|  13 | Database Management using MS Access          |       4      | Miss Shafaque Saira |
+|  14 | Artificial Intelligence (AI)                 |       3      | Miss Shafaque Saira |
+|  15 | Linear Algebra                               |       3      | Miss Atifa          |
+|  16 | Computer Networks                            |       3      | Sir Ahsan           |
+|  17 | Assembly Language                            |       3      | Miss Shafaque Saira |
+|  18 | Operating Systems (OS)                       |       3      | Sir Anwar           |
+|  19 | Pakistan Studies                             |       2      | Sir Essa Babar      |
+|  20 | Islamic Studies                              |       2      | Sir M. Ali Babar    |
+|  21 | Ideology of Pakistan                         |       2      | Sir Asmatullah      |
+|     | **TOTAL LISTED CREDIT HOURS**                |    **61**    |                     |
+
+### Academic Credit Summary
+
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/ACADEMIC_COURSES-21-0e75b6?style=for-the-badge](https://img.shields.io/badge/ACADEMIC_COURSES-21-0e75b6?style=for-the-badge)" alt="21 Academic Courses" />
+&#x20; \<img src="[https://img.shields.io/badge/TOTAL_CREDIT_HOURS-61-2ea44f?style=for-the-badge](https://img.shields.io/badge/TOTAL_CREDIT_HOURS-61-2ea44f?style=for-the-badge)" alt="61 Credit Hours" />
+\</p>
+
+**Academic Areas Covered:**
+
+- Programming and Software Development
+- Data Structures and Algorithms
+- Artificial Intelligence
+- Web Technologies
+- Database Management
+- Mathematics and Applied Sciences
+- Computer Networks and Information Security
+- Operating Systems and Computer Architecture
+- Communication and Professional Studies
+
+*Note: The total represents the sum of the 21 course credit-hour values provided. Individual semester allocations have not been specified.*
+
+---
+
+## 06 / CURRENT LEARNING & DEVELOPMENT
+
+Continuously expanding my knowledge and practical capabilities across three primary areas.
+
+### Artificial Intelligence Engineering
+
+- AI engineering and practical AI integrations.
+- Image recognition and computer vision.
+- Intelligent agents and conversational AI.
+- Chatbots and business automation.
+- Integrating AI into web applications.
+
+### Modern Web Development
+
+- Advanced JavaScript.
+- React.js and Next.js.
+- Full-stack application development.
+- Database architecture and integration.
+- Modern deployment and hosting platforms.
+- Building scalable digital products.
+
+### Content Creation
+
+- Digital content development.
+- Content strategy and storytelling.
+- Creative production.
+- Technology-focused content.
+- Visual communication and digital media.
+
+---
+
+## 07 / ENGINEERING PHILOSOPHY
+
+> Great engineering is not about using the most technologies. It is about understanding problems deeply and building effective solutions.
+
+| Principle           | Philosophy                                              |
+| :------------------ | :------------------------------------------------------ |
+| First Principles    | Understand the fundamentals before building complexity. |
+| Problem Solving     | Break complex challenges into manageable systems.       |
+| Innovation          | Explore better ways to solve existing problems.         |
+| Execution           | Transform ideas into functional products.               |
+| Optimization        | Improve performance, usability, and maintainability.    |
+| Continuous Learning | Experiment, adapt, and evolve with technology.          |
+
+---
+
+## 08 / GITHUB ANALYTICS
+
+### GitHub Statistics
+
+\<p align="center">
+&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=zaidahmedofficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=zaidahmedofficial\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" alt="GitHub Statistics" />
+&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=zaidahmedofficial&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidahmedofficial\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most Used Languages" />
+\</p>
+
+### Contribution Activity
+
+\<p align="center">
+&#x20; \<img src="[https://streak-stats.demolab.com?user=zaidahmedofficial&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=zaidahmedofficial\&theme=tokyonight\&hide_border=true)" alt="GitHub Contribution Streak" />
+\</p>
+
+---
+
+## 09 / CONNECT & COLLABORATE
+
+Interested in technology, software development, artificial intelligence, and building meaningful digital products.
+
+\<p align="center">
+&#x20; \<a href="[https://github.com/zaidahmedofficial](https://github.com/zaidahmedofficial)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub Profile" />
+&#x20; \</a>
+\</p>
+
+---
+
+\<p align="center">
+&#x20; \<b>THINK DEEPLY. BUILD INTELLIGENTLY. ENGINEER THE FUTURE.\</b>
+\</p>
+
+\<p align="center">
+&#x20; \<sub>ZAID AHMED · SOFTWARE ENGINEERING × ARTIFICIAL INTELLIGENCE\</sub>
+\</p>
