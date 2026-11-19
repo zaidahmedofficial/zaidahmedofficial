@@ -1,224 +1,166 @@
-# ZAID AHMED
-
-<h3 align="center">SOFTWARE ENGINEER | AI ENGINEER</h3>
+# Zaid Ahmed
 
 <p align="center">
-  <b>Engineering intelligent solutions. Building technology that matters.</b>
+  <strong>SOFTWARE ENGINEER · AI ENGINEER</strong><br />
+  <em>Building useful software. Exploring intelligent systems. Learning by shipping.</em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaidahmedofficial&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/zaidahmedofficial?label=GitHub%20Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=zaidahmedofficial&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/zaidahmedofficial?label=FOLLOWERS&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
 </p>
 
 ---
 
-## ABOUT
+## 01 · About
 
-I'm **Zaid Ahmed**, a Software Engineer and AI Engineer with a strong interest in software development, artificial intelligence, and emerging technologies.
+I'm **Zaid Ahmed**, an Information Technology undergraduate in the **Department of Computer Science at the University of Balochistan, Pakistan**. My work and learning interests sit at the intersection of **software engineering, modern web development, and artificial intelligence**.
 
-Currently pursuing a Bachelor's-level Information Technology program at the **University of Balochistan, Pakistan**, within the Department of Computer Science.
+I enjoy turning ideas into practical applications—from responsive web experiences and database-backed products to AI-powered chatbots, image-recognition experiments, and communication agents.
 
-I focus on developing modern web applications, integrating database technologies, exploring AI-powered systems, and building intelligent automation solutions.
+My engineering approach is straightforward:
 
-My approach is simple: understand the fundamentals, build practical solutions, and continuously improve.
+> Understand the problem. Build the smallest useful solution. Test it. Improve it.
 
-```text
-SOFTWARE ENGINEERING  ×  ARTIFICIAL INTELLIGENCE
+## 02 · At a glance
 
-Think in systems.
-Build with logic.
-Automate intelligently.
-Innovate continuously.
-```
-
-## PROFILE
-
-| Category | Information |
+| | |
 |---|---|
-| Name | Zaid Ahmed |
-| University | University of Balochistan |
-| Department | Computer Science |
-| Program | Information Technology (IT) |
-| Academic Level | 4th Semester |
-| Location | Pakistan |
-| Primary Focus | Software Engineering & AI Engineering |
-| Interests | Full-Stack Development, AI & Automation |
+| **Name** | Zaid Ahmed |
+| **University** | University of Balochistan |
+| **Department** | Computer Science |
+| **Program** | Information Technology (IT) |
+| **Current semester** | 4th semester |
+| **Location** | Pakistan |
+| **Focus** | Software Engineering · AI Engineering · Web Development |
 
----
+## 03 · Technology stack
 
-## TECHNOLOGY ECOSYSTEM
+### Frontend development
 
-### 01 — Frontend Engineering
-
-Building modern, responsive, and interactive web experiences.
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs" alt="Frontend technology stack" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs" alt="HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React and Next.js" />
 </p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+`HTML5 / HTM` · `CSS3` · `JavaScript` · `Tailwind CSS` · `Bootstrap` · `React.js` · `Next.js`
 
-### 02 — Programming & Markup
+### Programming and data formats
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![XML](https://img.shields.io/badge/XML-0060AC?style=flat-square&logo=xml&logoColor=white)
-![XHTML](https://img.shields.io/badge/XHTML-555555?style=flat-square&logo=w3c&logoColor=white)
+`C++ fundamentals` · `XML` · `XHTML`
 
-HTML, HTM, XHTML, XML and JavaScript.
+### Databases and backend platforms
 
-### 03 — Databases & Backend Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" alt="Database and backend platforms" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" alt="MongoDB, Firebase and Supabase" />
 </p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=flat-square&logo=turso&logoColor=black)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+`MongoDB` · `Turso` · `Neon` · `Firebase` · `Supabase` · `Microsoft Access`
 
-### 04 — Deployment & Infrastructure
+### Deployment and hosting
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Vercel and Netlify" />
+</p>
 
----
+`Vercel` · `Netlify`
 
-## AI ENGINEERING & INTELLIGENT AUTOMATION
+## 04 · AI engineering and automation
 
-Exploring the intersection of artificial intelligence, web applications, computer vision, and automated communication.
+I am interested in practical AI systems that make digital products more helpful and reduce repetitive work.
 
-### AI Development Areas
-
-| Area | Focus |
+| Area | Project focus |
 |---|---|
-| Computer Vision | Image Recognition Models |
-| Conversational AI | Intelligent Website Chatbots |
-| AI Integration | AI-powered Web Applications |
-| Business Automation | Intelligent Communication Agents |
-| Messaging Automation | WhatsApp & Telegram Agents |
-| Social Automation | Facebook Page Agents |
+| **Computer vision** | Image-recognition models and visual understanding |
+| **Conversational AI** | Website chatbots and customer-support assistants |
+| **WhatsApp automation** | WhatsApp agents and messaging workflows |
+| **Telegram automation** | Telegram bots and assistant workflows |
+| **Social messaging** | Facebook Page agents and automated responses |
+| **AI + web integration** | Bringing AI-powered features into web applications |
 
-### Intelligent Systems & Agents
+I take inspiration from the customer-support experiences found in services such as Zong and Easypaisa when exploring website chatbot flows. These are independent learning and development interests, not official affiliations with those companies.
 
-- **Image Recognition:** Developing and exploring image recognition solutions.
-- **Website Chatbots:** Building conversational assistants for websites, inspired by customer-support experiences in platforms such as Zong and Easypaisa.
-- **WhatsApp Agents:** Automated messaging and customer interaction workflows.
-- **Telegram Agents:** Intelligent Telegram bots and automation.
-- **Facebook Page Agents:** Automated social media communication and response workflows.
-- **AI-Powered Applications:** Integrating intelligent functionality into modern web applications.
+## 05 · Academic foundation
 
-My interest is to create systems that reduce repetitive work, improve user experiences, and make technology more useful.
+**University of Balochistan · Computer Science Department · Information Technology**  
+The following courses are from the first four semesters, based on the course information I have recorded.
 
----
+<details>
+  <summary><strong>View coursework, credit hours, and instructors</strong></summary>
 
-## COMPUTER SCIENCE FOUNDATION
+  | Course | Credit hours | Instructor |
+  |---|---:|---|
+  | Functional English | 3 | Miss Hajira |
+  | Information and Communication Technology (ICT) | 3 | Sir Sajad Ahmed |
+  | Programming Fundamentals in C++ | 4 | Sir Saeed |
+  | Calculus | 2 | Madam Atifa |
+  | Statistics | 3 | Sir Imran Ali |
+  | Applied Physics | 2 | Sir Wajahat |
+  | Data Structures and Algorithms in C++ | 3 | Sir Waqas |
+  | Discrete Mathematics | 3 | Sir Imran Ali |
+  | Digital Logic Design (DLD) | 4 | Sir Anwar |
+  | Expository Writing | 3 | Miss Rabbia |
+  | Information Security | 3 | Sir Ahsan |
+  | Web Technologies | 3 | Sir Imran |
+  | Database using Microsoft Access | 4 | Miss Shafaque Saira |
+  | Artificial Intelligence (AI) | 3 | Miss Shafaque Saira |
+  | Linear Algebra | 3 | Miss Atifa |
+  | Computer Networks | 3 | Sir Ahsan |
+  | Assembly Language | 3 | Miss Shafaque Saira |
+  | Operating Systems (OS) | 3 | Sir Anwar |
+  | Pakistan Studies | 2 | Sir Essa Babar |
+  | Islamic Studies | 2 | Sir M. Ali Babar |
+  | Ideology of Pakistan | 2 | Sir Asmatullah |
 
-Academic coursework completed during my first four semesters at the University of Balochistan.
+  **Total of the listed course credit hours: 61.** This is the sum of the credit hours supplied above, not a claim about earned or officially completed credits.
 
-### Programming & Computing
+</details>
 
-- Programming in C++
-- Data Structures & Algorithms using C++
-- Web Technologies
-- Artificial Intelligence
-- Database Management using Microsoft Access
-- Operating Systems
-- Assembly Language
-- Digital Logic Design (DLD)
+### Core areas covered
 
-### Mathematics & Applied Sciences
+- **Programming:** C++ fundamentals, data structures, algorithms, and assembly language.
+- **Systems and security:** Operating systems, computer networks, information security, and digital logic design.
+- **Data and intelligent systems:** Database concepts and artificial intelligence.
+- **Mathematics and science:** Calculus, statistics, discrete mathematics, linear algebra, and applied physics.
+- **Communication:** Functional English, expository writing, ICT, and general education courses.
 
-- Calculus
-- Statistics
-- Discrete Mathematics
-- Linear Algebra
-- Applied Physics
+## 06 · What I'm learning now
 
-### Networks, Security & Information Technology
+- **AI engineering:** AI application development, image recognition, chatbots, and agent workflows.
+- **Web development:** Modern JavaScript, React.js, Next.js, and full-stack application patterns.
+- **Content creation:** Creative communication, content planning, and digital storytelling.
 
-- Computer Networks
-- Information Security
-- Information and Communication Technology (ICT)
+## 07 · Engineering principles
 
-### Communication & Writing
+- **Fundamentals first** — understand the concepts beneath the tools.
+- **Build to learn** — turn theory into working projects and experiments.
+- **Keep systems clear** — prefer maintainable code and understandable architecture.
+- **Iterate deliberately** — test, review, improve, and document.
+- **Stay curious** — keep learning as technologies and ideas evolve.
 
-- English
-- Expository Writing
-
----
-
-## CURRENT FOCUS
-
-**01 — AI Engineering**
-
-Deepening my understanding of AI systems, image recognition, intelligent agents, chatbots, and practical AI integrations.
-
-**02 — Modern Web Development**
-
-Advancing my capabilities in JavaScript, React.js, Next.js, frontend engineering, databases, and full-stack application development.
-
-**03 — Content Creation**
-
-Learning content strategy, creative production, storytelling, and digital communication.
-
-**04 — Practical Engineering**
-
-Turning academic concepts into functional applications, experiments, and real-world projects.
-
----
-
-## ENGINEERING PRINCIPLES
-
-> Great technology is built through curiosity, first-principles thinking, and relentless iteration.
-
-| Principle | Approach |
-|---|---|
-| First Principles | Understand how things work at their foundation. |
-| Problem Solving | Break complex problems into manageable systems. |
-| Innovation | Explore better ways to solve existing problems. |
-| Execution | Transform ideas into functional products. |
-| Continuous Learning | Adapt, experiment, and improve. |
-
----
-
-## GITHUB ANALYTICS
+## 08 · GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zaidahmedofficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidahmedofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zaidahmedofficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidahmedofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used repository languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zaidahmedofficial&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=zaidahmedofficial&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
----
+<sub>Note: language cards reflect the languages detected in public repositories; they are not a measure of skill or proficiency.</sub>
 
-## CONNECT & COLLABORATE
+## 09 · Connect
 
-Open to meaningful collaborations, technology discussions, and opportunities to build useful software.
-
-<p align="center">
+<p>
   <a href="https://github.com/zaidahmedofficial">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>THINK BEYOND LIMITS. ENGINEER WITH PURPOSE. BUILD THE FUTURE.</b>
-</p>
-
-<p align="center">
-  <sub>ZAID AHMED · SOFTWARE ENGINEERING × ARTIFICIAL INTELLIGENCE</sub>
+  <strong>THINK CLEARLY · BUILD BOLDLY · KEEP ITERATING</strong><br />
+  <sub>Zaid Ahmed · Software Engineering × Artificial Intelligence</sub>
 </p>
